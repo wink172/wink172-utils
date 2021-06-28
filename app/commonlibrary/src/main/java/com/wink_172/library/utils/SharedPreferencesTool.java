@@ -3,7 +3,6 @@ package com.wink_172.library.utils;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-import org.xutils.x;
 
 /**
  * 暂时被MMKV替换

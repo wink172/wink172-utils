@@ -39,11 +39,7 @@ dependencies {
     implementation 'com.tencent:mmkv-static:1.2.7'
     // MMKV for Android<<====
 
-    //xutils====>>start
-    implementation 'org.xutils:xutils:3.8.11'
-    //xutils<<====end
 
-    // 国际化框架====>>
-    implementation 'com.hjq:language:6.0'
-    // 国际化框架<<====
+
+
 }
