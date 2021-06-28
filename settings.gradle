@@ -1,0 +1,3 @@
+rootProject.name = "wink172"
+include ':app'
+include ':app:commonlibrary'
