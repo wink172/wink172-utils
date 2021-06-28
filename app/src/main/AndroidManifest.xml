@@ -8,6 +8,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Wink172_utils" />
+        android:theme="@style/Theme.Wink172_utils">
+        <activity android:name="com.wink_172.MainActivity"></activity>
+    </application>
 
 </manifest>

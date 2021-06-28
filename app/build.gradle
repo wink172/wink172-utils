@@ -31,13 +31,17 @@ dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
 
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
 //    implementation 'com.github.wink172:wink172-utils:9667178c3d'
-    //    implementation 'com.github.wink172:wink172-utils:-SNAPSHOT'
+//        implementation 'com.github.wink172:wink172-utils:-SNAPSHOT'
+    implementation 'com.github.wink172:wink172-utils:65ab49b421'
 
-    implementation project(path: ':app:commonlibrary')
+
+    //  implementation project(path: ':app:commonlibrary')
+
 }
