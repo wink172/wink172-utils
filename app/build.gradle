@@ -36,5 +36,8 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
+//    implementation 'com.github.wink172:wink172-utils:9667178c3d'
+    //    implementation 'com.github.wink172:wink172-utils:-SNAPSHOT'
+
     implementation project(path: ':app:commonlibrary')
 }

@@ -1,9 +1,7 @@
-package com.wink_172;
+package com.wink_172.library;
 
 import android.app.Activity;
 import android.content.Context;
-
-import com.wink_172.library.utils.DisplayUtil;
 
 import java.util.Stack;
 
